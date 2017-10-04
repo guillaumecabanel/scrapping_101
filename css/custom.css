@@ -1,0 +1,34 @@
+img{
+  width: 120px;
+  border: none !important;
+}
+
+blockquote {
+  text-align: left;
+  box-shadow: none !important;
+  border-left: 15px solid #788E95 !important;
+  padding-left: 20px !important;
+  font-size: 70% !important;
+}
+
+h4{
+  text-align: left;
+}
+
+td{
+  border: none !important;
+}
+
+img.full-screen{
+  width:100%;
+}
+
+.lowercase{
+  text-transform: lowercase;
+}
+
+.icon-left{
+  text-align: left;
+  margin-left: 50px !important;
+  margin-bottom: -20px !important;
+}
