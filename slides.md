@@ -160,9 +160,9 @@ https://cdn.dribbble.com/users/548267/screenshots/3559258/kinkaider-moscow-mule-
   # text
   element.text
 
-  # lien
+  # link
   element.attr('href')
 
-  # lien
+  # image url
   element.attr('src')
 ```
