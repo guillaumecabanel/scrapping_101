@@ -166,3 +166,7 @@ https://cdn.dribbble.com/users/548267/screenshots/3559258/kinkaider-moscow-mule-
   # image url
   element.attr('src')
 ```
+
+### Mémo sur Github 🎉
+
+👉 https://github.com/guillaumecabanel/scrapping_memo
